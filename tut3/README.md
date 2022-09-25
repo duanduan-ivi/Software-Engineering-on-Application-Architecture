@@ -43,5 +43,4 @@ cd /home/it5007/
     - Steps to set up your application after cloning/downloading the repository (including steps to add more packages if needed)
     - How to launch your application
     - mention all features you have implemented.
-# Software-Engineering-on-Application-Architecture
-# Software-Engineering-on-Application-Architecture
+
